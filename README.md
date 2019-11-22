@@ -1,2 +1,4 @@
 # PegPuzzle
-Prolog code solving the peg puzzle board game
+Code solving the peg puzzle board game.
+Current Implementations:  Prolog
+                          Java
